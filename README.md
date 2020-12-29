@@ -1,7 +1,7 @@
 # ExpressPhotoUpload
 Photo Upload and Search application built using Express JS,Redis Cache ,Multer API. Multer is a middleware for Express and Node.js that makes it easy to handle multipart/form-data when users upload files.
 
-Prerequisites:
+## Prerequisites:
 1.Node and Express.js needs to be installed.
 2.Multer middleware for file uploading needs to be installed via npm.
 3.The fs (File System) module provides a lot of very useful functionality to access and interact with the file system.
@@ -11,7 +11,7 @@ Redis needs to be installed in the machine and also installed via npm in the app
 5.Masonry.js and jquery is used to display the uploaded image files in masonry-grid format.
 
 
-Running the application:
+## Usage
 1.Navigate to the application path: cd photoapp
 2.Run the command: node server.js
 3.Open localhost:3000 and view the application running.
