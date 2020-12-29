@@ -33,6 +33,6 @@ Upload File
 Search File
 ![image](https://user-images.githubusercontent.com/29458723/103260761-e1e35600-496c-11eb-99c5-004ced9d4bd7.png)
 
-Dynamiic Masonry Layout
+Dynamic Masonry Layout
 ![image](https://user-images.githubusercontent.com/29458723/103260789-f4f62600-496c-11eb-8ac1-76abe997cebe.png)
 
