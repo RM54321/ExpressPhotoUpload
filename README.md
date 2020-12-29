@@ -21,3 +21,17 @@ $redis-server
 <li>Navigate to the application path: cd photoapp</li>
 <li>Run the command: node server.js</li>
 <li>Open localhost:3000 and view the application running.</li>
+
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/29458723/103260593-26babd00-496c-11eb-807b-73693a024e86.png)
+
+<div align="center">
+        <img width="45%" src="screenshots/Xpress-Homepage.png" alt="Home Page" title="Home Page"</img>
+ 
+        <img width="45%" src="screenshots/Xpress-MasonryGallery.png" alt="Gallery" title="Gallery Masonry"></img>
+        
+        <img width="45%" src="screenshots/Xpress-SearchImage.png" alt="Search" title="Search Page"></img>
+        
+        <img width="45%" src="screenshots/Xpress-UploadFile.png" alt="Upload" title="Upload Page"></img>
+</div>
