@@ -24,15 +24,15 @@ $redis-server
 
 
 ## Screenshots
-Home Page
+### Home Page
 ![image](https://user-images.githubusercontent.com/29458723/103260593-26babd00-496c-11eb-807b-73693a024e86.png)
 
-Upload File
+### Upload File
 ![image](https://user-images.githubusercontent.com/29458723/103260745-ce37ef80-496c-11eb-9c5a-d1f18a3e2c3d.png)
 
-Search File
+### Search File
 ![image](https://user-images.githubusercontent.com/29458723/103260761-e1e35600-496c-11eb-99c5-004ced9d4bd7.png)
 
-Dynamic Masonry Layout
+### Dynamic Masonry Layout
 ![image](https://user-images.githubusercontent.com/29458723/103260789-f4f62600-496c-11eb-8ac1-76abe997cebe.png)
 
