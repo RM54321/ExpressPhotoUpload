@@ -25,14 +25,16 @@ $redis-server
 
 ## Screenshots
 ### Home Page
-![image](https://user-images.githubusercontent.com/29458723/103260593-26babd00-496c-11eb-807b-73693a024e86.png)
+![image](https://user-images.githubusercontent.com/29458723/103464792-6b47af00-4d04-11eb-84f3-bdbe938f6867.png)
 
-### Upload File
-![image](https://user-images.githubusercontent.com/29458723/103260745-ce37ef80-496c-11eb-9c5a-d1f18a3e2c3d.png)
+### Upload Image File
+![image](https://user-images.githubusercontent.com/29458723/103464800-7995cb00-4d04-11eb-9085-1193606bd819.png)
 
-### Search File
-![image](https://user-images.githubusercontent.com/29458723/103260761-e1e35600-496c-11eb-99c5-004ced9d4bd7.png)
+### Dynamic Masonry Gallery
+![image](https://user-images.githubusercontent.com/29458723/103464813-95996c80-4d04-11eb-97d2-cd42243e13a1.png)
 
-### Dynamic Masonry Layout
-![image](https://user-images.githubusercontent.com/29458723/103260789-f4f62600-496c-11eb-8ac1-76abe997cebe.png)
+### Search Image
+![image](https://user-images.githubusercontent.com/29458723/103464818-a0ec9800-4d04-11eb-82b3-dab0f2f09e12.png)
+
+
 
