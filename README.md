@@ -1,5 +1,5 @@
 # ExpressPhotoUpload
-Photo Upload and Search application built using Express JS,Redis Cache ,Multer API. Multer is a middleware for Express and Node.js that makes it easy to handle multipart/form-data when users upload files.Masonry.js and jquery is used to display the uploaded image files in masonry-grid format.
+Photo Upload and Search application built using Express JS,Redis Cache ,Multer API. Multer is a middleware for Express and Node.js that makes it easy to handle multipart/form-data when users upload files.Masonry.js and jquery is used to display the uploaded image files in masonry grid format.
 
 ## Installation
 <ul>
